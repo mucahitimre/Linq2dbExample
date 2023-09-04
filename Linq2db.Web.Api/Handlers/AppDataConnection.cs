@@ -1,12 +1,13 @@
-﻿using LinqToDB;
+﻿using Linq2db.Web.Api.Models;
+using LinqToDB;
 using LinqToDB.Data;
 
-namespace Linq2db.Web.Api
+namespace Linq2db.Web.Api.Handlers
 {
     /// <summary>
     /// The application data connection
     /// </summary>
-    /// <seealso cref="LinqToDB.Data.DataConnection" />
+    /// <seealso cref="DataConnection" />
     public class AppDataConnection : DataConnection
     {
         /// <summary>

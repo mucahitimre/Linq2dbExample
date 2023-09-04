@@ -1,6 +1,6 @@
 ﻿using LinqToDB.Mapping;
 
-namespace Linq2db.Web.Api
+namespace Linq2db.Web.Api.Models
 {
     /// <summary>
     /// The SMS log document
