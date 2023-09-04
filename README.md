@@ -24,3 +24,9 @@ If there is clickhouse with the same name:
 docker start some-clickhouse-server
 ```
 
+## References
+- https://github.com/linq2db/linq2db
+
+## More
+
+Still have questions left? Check out its issues or create new issue
